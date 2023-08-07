@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+    color:white;
+}
+.ssr-img{
+    height:400px;
+    width:900px;
+}
+.bio{
+    margin-left:15%;
+    font-size: larger;
+    margin-right:15%;
+    text-align:justify;
+    justify:inner-word;
+}
+h3{
+    margin-left:50%;
+}
+.bio-graphy{
+    margin-bottom: 50px;
+    width:150px;
+    height:50px;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 30px;
+    border-color: none;
+}
+.bio-graphy:hover{
+    width:160px;
+    height:55px;
+    margin-bottom:45px;
+    box-shadow:10px 10px 100px white;
+}
